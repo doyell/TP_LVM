@@ -1,6 +1,4 @@
 # TP_LVM
-
-
     1  cd
     2  lsblk
     3  pvcreate /dev/sdc /dev/sdd /dev/sde
